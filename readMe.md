@@ -5,7 +5,6 @@
     [Unit-1/Assignment](Unit-1/Assignment/assignment-1.md)
     [Unit-1/Notes](Unit-1/Notes/Notes.md)
 
----
 
 ## 📂 **File Structure**
 
@@ -40,8 +39,7 @@ Internet-Technology
     ├── Assignment
     └── Notes
 
-```
----
+
 ### 📘 **Course Structure: Internet Technology (CMP 173)** ###
 
 📁 **Unit 1 [3 Hrs]**
@@ -60,7 +58,6 @@ Internet-Technology
 ├── 1.6 Server-Side Scripting
 └── 1.7 Web 1.0, Web 2.0, and Web 3.0
 
----
 
 📁 **Unit 2 [8 Hrs]**
 ├── 2.1 Introduction to HTML
@@ -72,7 +69,6 @@ Internet-Technology
 ├── 2.7 Lists, Tables, Forms, and Input
 └── 2.8 Semantic HTML
 
----
 
 📁 **Unit 3 [7 Hrs]**
 ├── 3.1 HTML5 APIs
