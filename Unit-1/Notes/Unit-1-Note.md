@@ -1,4 +1,4 @@
----
+```
 Unit I: Introduction to Web Technology
 1.1 Web Basics – Internet, Intranet, WWW
 
@@ -323,4 +323,4 @@ Examples: Decentralized applications (dApps), metaverses, AI-powered virtual ass
 
 Here's a visual summary of Web Evolution:
 ![alt text](image-5.png)
----
+```
