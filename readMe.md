@@ -3,7 +3,7 @@
 
 [Unit-1](Unit-1)
     [Unit-1/Assignment](Unit-1/Assignment/assignment-1.md)
-    [Unit-1/Notes](Unit-1/Notes/Unit-1-Note.md)
+    [Unit-1/Notes](Unit-1/Notes/note.md)
 
 
 ## 📂 **File Structure**
