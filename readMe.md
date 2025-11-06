@@ -154,7 +154,7 @@ Internet-Technology
 ├── 8.8 Implement a jQuery date picker and sorting
 ├── 8.9 Work with JSON data and AJAX requests
 └── 8.10 Explore basic React, Angular, or Vue.js concepts
-
+---
 ```
 
 
