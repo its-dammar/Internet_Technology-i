@@ -42,7 +42,7 @@ Internet-Technology
 
 ### 📘 **Course Structure: Internet Technology (CMP 173)** ###
 
-📁 **Unit 1 [3 Hrs]**
+📁 Unit 1 [3 Hrs]
 ├── 1.1 Web Basics
 │  ├── 1.1.1 Internet, Intranet, WWW
 │  ├── 1.1.2 Static and Dynamic Web Page
@@ -59,7 +59,7 @@ Internet-Technology
 └── 1.7 Web 1.0, Web 2.0, and Web 3.0
 
 
-📁 **Unit 2 [8 Hrs]**
+📁 Unit 2 [8 Hrs]
 ├── 2.1 Introduction to HTML
 ├── 2.2 Document Structure
 ├── 2.3 Text Formatting
@@ -70,7 +70,7 @@ Internet-Technology
 └── 2.8 Semantic HTML
 
 
-📁 **Unit 3 [7 Hrs]**
+📁 Unit 3 [7 Hrs]
 ├── 3.1 HTML5 APIs
 ├── 3.2 HTML5 Forms
 ├── 3.3 Responsive Web Design
@@ -79,7 +79,7 @@ Internet-Technology
 
 
 
-📁 **Unit 4 [8 Hrs]**
+📁 Unit 4 [8 Hrs]
 ├── 4.1 Introduction to CSS
 ├── 4.2 CSS Syntax
 ├── 4.3 Using CSS with HTML
@@ -100,7 +100,7 @@ Internet-Technology
 
 
 
-📁 **Unit 5 [7 Hrs]**
+📁 Unit 5 [7 Hrs]
 ├── 5.1 CSS Flexbox
 ├── 5.2 CSS Grid
 ├── 5.3 CSS Transitions and Animations
@@ -112,7 +112,7 @@ Internet-Technology
 
 
 
-📁 **Unit 6 [8 Hrs]**
+📁 Unit 6 [8 Hrs]
 ├── 6.1 Introduction to JavaScript
 ├── 6.2 Using JS in HTML
 ├── 6.3 JavaScript Output and Comments
@@ -126,7 +126,7 @@ Internet-Technology
 
 
 
-📁 **Unit 7 [7 Hrs]**
+📁 Unit 7 [7 Hrs]
 ├── 7.1 Scope and Closures
 ├── 7.2 Error Handling and Debugging
 ├── 7.3 DOM Manipulation
@@ -140,7 +140,7 @@ Internet-Technology
 
 
 
-📁 **Unit 8: Laboratory Work / Practical [>28 Hrs]**
+📁 Unit 8: Laboratory Work / Practical [>28 Hrs]
 ├── 8.1 Create a static multi-page website using HTML5
 ├── 8.2 Create an image gallery using CSS
 ├── 8.3 Build a responsive web page using box model
