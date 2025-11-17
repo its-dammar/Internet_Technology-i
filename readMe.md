@@ -5,6 +5,9 @@
     [Unit-1/Assignment](Unit-1/Assignment/assignment-1.md)
     [Unit-1/Notes](Unit-1/Notes/note.md)
 
+[Unit-2](Unit-2)
+    [Unit-2/Assignment](Unit-2/Assignment/assignment-2.md)
+    [Unit-2/Notes](Unit-2/Notes/note.md)
 
 ## 📂 **File Structure**
 
